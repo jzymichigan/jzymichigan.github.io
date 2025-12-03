@@ -38,5 +38,5 @@ main:
   - title: "CV"
     url: "/cv/"
 
-  - title: "EECS 507"
-    url: "/eecs507/"
+ # - title: "EECS 507"
+  #  url: "/eecs507/"

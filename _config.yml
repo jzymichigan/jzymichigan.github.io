@@ -21,9 +21,7 @@ author:
   pronouns         : "he/him"
   bio              : >
     M.S. ECE student at the University of Michigan.  
-    My research focuses on multimodal sensing, wearable systems,  
-    ubiquitous computing, and real-time embedded ML.  
-    Applying to PhD programs for Fall 2026.
+    
 
   location         : "Ann Arbor, MI, USA"
   employer         : "University of Michigan"
@@ -31,32 +29,29 @@ author:
 
   # Academic Websites
   googlescholar    : ""     # fill if you have
-  arxiv            : 
-  orcid            : 
-  researchgate     : 
-  semantic         : 
-  academia         : 
+  arxiv            : "" 
+  
 
   # Repositories
   github           : "yourusername"
 
   # Social Media
-  linkedin         : "your-linkedin"
+  linkedin         : ""
   twitter          : ""
   zhihu            : ""
   instagram        : ""
 
 
-# =========================================
-# Publication Categories Display
-# =========================================
-publication_category:
-  manuscripts:
-    title: "Journal Articles"
-  conferences:
-    title: "Conference Papers"
-  books:
-    title: "Books"
+# # =========================================
+# # Publication Categories Display
+# # =========================================
+# publication_category:
+#   manuscripts:
+#     title: "Journal Articles"
+#   conferences:
+#     title: "Conference Papers"
+#   books:
+#     title: "Books"
 
 
 # =========================================
